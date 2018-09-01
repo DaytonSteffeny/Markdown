@@ -36,16 +36,13 @@
    
     
     
-    <table>
- <tr>
-   <th>Month</th>
-   <th>Savings</th>
- </tr>
- <tr>
-   <td>September</td>
-   <td>$10</td>
- </tr>
-</table>
+   A | B | C
+--- | --- | ---
+HI | HELLO | BYE
+1 | 2 | 3
+
+
+
       <p></p>
 <b>BOLD</b>
   <p></p>
