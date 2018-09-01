@@ -21,17 +21,16 @@
    > The Missouri Tigers open up the season against UT Martin at Faurot Field, where they’ll try to take care of business and get the year off to a fast start. On Friday, the Tigers unveiled the fresh new uniform combination they’d be wearing for the afternoon showdown. As you can see below, the Tigers will be wearing black helmets, black jerseys, gold pants and black gloves.
 
     
-    <ul>
+  
   <li>Mizzou</li>
   <li>Football</li>
   <li>Pre-game</li>
 </ul>
     
-    <ol type="1">
-  <li>Mizzou</li>
-  <li>Football</li>
-  <li>Gameday</li>
-</ol>
+    
+  1. Mizzou
+  2. Football
+  3. Gameday
     
    
     
