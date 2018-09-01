@@ -42,7 +42,6 @@ HI | HELLO | BYE
 
 
 
-      <p></p>
 <b>BOLD</b>
   <p></p>
 <i>Italic</i>
