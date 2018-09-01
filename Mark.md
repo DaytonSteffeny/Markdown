@@ -15,11 +15,11 @@
          src="challenge1.png" alt="Mizzou">
      <p></p>
     <img src="http://nyc.missourialumnispaces.com/wp-content/uploads/sites/79/2016/10/USATSI_78778993-650x342.jpg">
-    /* html code being used */
+    /* Markdown code being used */
     
-    <blockquote cite="https://www.saturdaydownsouth.com/mizzou-football/look-mizzou-unveils-fresh-uniform-combination-for-week-1-matchup-vs-ut-martin/">
-    The Missouri Tigers open up the season against UT Martin at Faurot Field, where they’ll try to take care of business and get the year off to a fast start. On Friday, the Tigers unveiled the fresh new uniform combination they’d be wearing for the afternoon showdown. As you can see below, the Tigers will be wearing black helmets, black jerseys, gold pants and black gloves.
-    </blockquote>
+    > blockquote https://www.saturdaydownsouth.com/mizzou-football/look-mizzou-unveils-fresh-uniform-combination-for-week-1-matchup-vs-ut-martin/
+   > The Missouri Tigers open up the season against UT Martin at Faurot Field, where they’ll try to take care of business and get the year off to a fast start. On Friday, the Tigers unveiled the fresh new uniform combination they’d be wearing for the afternoon showdown. As you can see below, the Tigers will be wearing black helmets, black jerseys, gold pants and black gloves.
+
     
     <ul>
   <li>Mizzou</li>
