@@ -54,9 +54,19 @@
 <s>Line</s>
       <p></p>
     
-    <h1>Hello</h1>
-      <p>This is for horizontal rule</p>
-    <hr>
+   Hey
+
+---
+
+Yo
+
+***
+
+Hi
+
+___
+
+Hello
 
 </body>
 </html>
